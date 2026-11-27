@@ -5,3 +5,7 @@ Entrega del Parcial;   ejercicioprogra2
 Entrega del Recuperatorio Practico;  recuperatorio_Practico
 + 10 archivos
 + Diagrama de clases en UML;    UML practico-recu.png
+
+Entrega del Segundo Parcial;  Segundo_parcial_2/src/main/java
++ 12 archivos
++ 7 carpetas 
